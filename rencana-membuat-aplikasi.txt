@@ -1,0 +1,5 @@
+Recana Membuat aplikasi dengan Java
+
+- Membuat sistem login
+- Membuat CRUD admin dan user
+* Admin dan User dapat membuat dan mengubah data ysng diinputkan
