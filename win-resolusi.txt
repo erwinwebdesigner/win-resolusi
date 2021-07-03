@@ -1,5 +1,4 @@
 Resulusi saya yahun 2021
 - Menguasai PHP Native
 - Menguasai Framework Laravel
-- Belajar Java 
-- Belajar OOP Java
+- Membuat aplikasi dengan Java
