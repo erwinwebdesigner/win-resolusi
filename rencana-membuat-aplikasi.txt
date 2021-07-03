@@ -1,0 +1,4 @@
+Recana Membuat aplikasi dengan Java
+
+- Membuat sistem login
+- Membuat CRUD admin dan user
